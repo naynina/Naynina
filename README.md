@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hola bemvindo ao meuperfil
+meunome é nay nina 😄
+Estou estudando na ##Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+Você pode entrar em contato comigo 📫
+pelo email
+lizetnaida2008@gmail.com ✨
 <!--
 **naynina/Naynina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
